@@ -30,7 +30,7 @@ def connect(host='http://google.com'):
 
 @app.command("run")
 def run():
-    # load_animation()
+    load_animation()
     # checks if the user is registered based on a file's existence that is created at the time of registration
     if os.path.isfile('codate.db'):
         login()
@@ -70,7 +70,7 @@ def load_animation():
     # pointer for travelling the loading string
     i = 0
 
-    while (counttime != 40):
+    while (counttime != 30):
 
         # used to change the animation speed
         # smaller the value, faster will be the animation
