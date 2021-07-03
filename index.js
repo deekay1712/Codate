@@ -120,7 +120,7 @@ app.post('/loginc', (req, res)=>{
 
 
 app.get('/', (req, res)=>{
-    res.send('Server is running')
+    res.send(JSON.stringify('Server is running'))
 })
 
 app.listen(process.env.PORT || PORT, () => {
