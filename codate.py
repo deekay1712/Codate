@@ -148,6 +148,8 @@ def otp_sent(emailid):
 
     return OTP
 
+#to verify mail id with OTP
+
 
 def verify(emailid, count):
     # OTP here is the OTP sent to the user
