@@ -28,7 +28,7 @@ If you have python & pip installed, you can follow the steps below to use <b>Cod
 
 ### Screenshots:
 
-Registeration Interface:
+Registration Interface:
 
 ![image](https://user-images.githubusercontent.com/73229823/124368455-d3a92600-dc7e-11eb-9cba-af6ab26a906b.png)
 
