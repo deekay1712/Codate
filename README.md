@@ -10,15 +10,21 @@
 </ul>
 
 ### How to use Codate?
-In order to use it, you must have python installed on your system. <br/>
-If you have python installed, you can follow the steps below to use <b>Codate</b>.
+In order to use it, you must have python & pip installed on your system. <br/>
+If you have python & pip installed, you can follow the steps below to use <b>Codate</b>.
 <ul>
    <li>Clone this repo on your system.</li>
    <li>Open command line in the cloned repo directory.</li>
-   <li>Run the following commands :</li>
-pip install -r requirements.txt <br/>
-  python codate.py run
+   <li>Type the following commands :</li>
 </ul>
+
+   ```
+  pip install -r requirements.txt
+  ```
+  ```
+  python codate.py run
+  ```
+
 
 ### Screenshots:
 
