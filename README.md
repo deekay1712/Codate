@@ -14,7 +14,7 @@ In order to use it, you must have python installed on your system. <br/>
 If you have python installed, you can follow the steps below to use <b>Codate</b>.
 <ul>
    <li>Clone this repo on your system.</li>
-   <li>Open command line in the cloned repo.</li>
+   <li>Open command line in the cloned repo directory.</li>
    <li>Run the following commands :</li>
 pip install -r requirements.txt <br/>
   python codate.py run
