@@ -4,10 +4,10 @@ const mysql = require('mysql')
 const app = express()
 
 const db = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',
+    host: 'sql6.freesqldatabase.com',
+    user: 'sql6422922',
     password: 'nikit',
-    database: 'clitinderdatabase',
+    database: 'IXWuQkGiaG',
     multipleStatements: true
 })
 
