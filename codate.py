@@ -443,7 +443,7 @@ def codeTemplate(code):
 
 # our cli is called here
 if __name__ == '__main__':
-    # checks if the user is connected to internet and shows a msg if he/she's not..
+    # checks if the user is connected to internet and shows a msg if he/she's not...
     if(connect()):
         app()
     else:
