@@ -17,7 +17,7 @@ import urllib.request
 
 app = typer.Typer()
 
-URL = 'https://ec54a29efd94.ngrok.io/'
+URL = 'https://codate.herokuapp.com/'
 
 
 def connect(host='http://google.com'):
