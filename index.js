@@ -6,8 +6,8 @@ const app = express()
 const db = mysql.createConnection({
     host: 'sql6.freesqldatabase.com',
     user: 'sql6422922',
-    password: 'nikit',
-    database: 'IXWuQkGiaG',
+    password: 'IXWuQkGiaG',
+    database: 'sql6422922',
     multipleStatements: true
 })
 
