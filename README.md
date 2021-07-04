@@ -1,5 +1,6 @@
 # Codate 💑
-### It's a tinder-like CLI app for coders! 👨‍💻
+
+It's a tinder-like CLI app for coders 👨‍💻 where one can upload their code and users can choose to like or dislike each other's profile based on their liking of other person's code.
 
 #### The project tech-stack includes the following:
 <ul>
