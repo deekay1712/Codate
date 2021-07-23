@@ -2,7 +2,7 @@
 
 It's a tinder-like CLI app for coders 👨‍💻 where one can upload their code and users can choose to like or dislike each other's profile based on their liking of other person's code.
 
-Codate was placed 1st under the category of **Open Innovation** in a [Hackathon](https://devpost.com/software/codate) arranged by **GeeksfoGeeks Chapter VIT-Bhopal**
+Codate was awarded 1st under the category of **Open Innovation** in a [Hackathon](https://devpost.com/software/codate) arranged by **GeeksfoGeeks Chapter VIT-Bhopal**
 
 #### The project tech-stack includes the following:
 <ul>
